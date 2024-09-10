@@ -1,0 +1,8 @@
+import "./p5/paintingmachine.js"
+import "./p5/artboard.js"
+import "./p5/randomComp.js"
+import "./p5/render.js"
+import "./p5/result.js"
+import "./p5/source.js"
+import "./p5/target.js"
+import "./p5/ui.js"
